@@ -8,7 +8,7 @@ Tenho inglês intermediário completo, com diploma pelo Sheffield Idiomas.
 
 Curto bastante a área de tecnologia, principalmente programação, e estou sempre buscando aprender coisas novas e evoluir minhas habilidades.
 
-Aqui no GitHub você vai encontrar alguns projetos que fazem parte da minha evolução e do que venho estudando 
+Aqui no GitHub você vai encontrar alguns projetos que fazem parte da minha evolução e do que venho estudando.
 
 
 
